@@ -1,0 +1,20 @@
+{
+  "name": "main-design",
+  "description": "Design and build skills.",
+  "owner": {
+    "name": "inematds",
+    "url": "https://github.com/inematds"
+  },
+  "plugins": [
+    {
+      "name": "main-design",
+      "source": "./plugins/main-design",
+      "description": "scrollcraft: build a premium, scroll-driven interactive landing page. Scroll becomes the timeline, and the page verifies its own contrast, motion and accessibility by screenshotting itself.",
+      "version": "0.2.0",
+      "author": {
+        "name": "inematds"
+      },
+      "license": "MIT"
+    }
+  ]
+}
